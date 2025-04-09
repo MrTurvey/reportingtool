@@ -1,0 +1,6 @@
+{
+    "title": "Sample SQL Injection Finding",
+    "content": "## Description\nA SQL injection vulnerability...",
+    "severity": "High",
+    "category": "Injection"
+}
